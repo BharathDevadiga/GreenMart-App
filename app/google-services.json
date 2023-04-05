@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "658933701335",
+    "project_id": "greenmart-c3877",
+    "storage_bucket": "greenmart-c3877.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658933701335:android:cd1ab7ccdddc1249692e92",
+        "android_client_info": {
+          "package_name": "com.example.greenmart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658933701335-fnau0qf4ofhamca7bus8l8qoopheqstn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHR9RQNLLX5oXg-UIDCHkVvCGmSm9ukog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658933701335-fnau0qf4ofhamca7bus8l8qoopheqstn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
